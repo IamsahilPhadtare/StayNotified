@@ -4,7 +4,7 @@
     p{
         position: relative;
         top: 150;
-        left: 00;
+        left: ;
     }
     h1{
         color:red; 
@@ -30,7 +30,7 @@
         width: 150px;
         position:fixed;
         top: 0;
-        left: 300;
+        left: 900;
         z-index: -1;
 
 
@@ -87,8 +87,8 @@
         position: fixed;
           top: 90px;
           bottom: 0px;
-          right: 0px;
-          left: 615px;
+          right:10px;
+          left: 1760px;
           width: 140px;
           height: 40px;
 
