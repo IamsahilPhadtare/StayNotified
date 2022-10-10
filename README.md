@@ -1,2 +1,2 @@
 # StayNotified
-getnotified.tk
+[getnotified.tk]
