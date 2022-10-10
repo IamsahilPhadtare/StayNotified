@@ -1,3 +1,3 @@
 # StayNotified
 [getnotified.tk]
-<a href="getnotified.tk" target="_blank">Website</a>
+<a href="https://www.getnotified.tk/" target="_blank">Website</a>
