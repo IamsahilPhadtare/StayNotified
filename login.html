@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <link rel="icon" type="image/x-icon" href="Resources/Icon.png">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+        <title>
+            Login
+        </title>
+    <body>
+      <script src="func.js">
+
+      </script>
+      
+        <a href="home.html"><h1>GetNotified</h1></a>
+        <div>
+            <form action="/action_page.php">
+              <div class="ceredintials">
+                <label for="usrname">Username</label>
+                </div>
+              <div class="input">
+                <input type="usrname" id="usrname" name="Username" placeholder="Username">
+              </div>
+          
+              <div class="ceredintials">
+                <label for="pass">Password</label>
+              </div>
+              <div class="input"><input type="password" id="password" name="password" placeholder="Password">
+                <input type="checkbox" onclick="showpass()">Show Password
+              </div>
+          
+              <div class="input">
+                <label for="country">Country</label>
+                <select id="country" name="country">
+                  <option value="india">India</option>
+                  <option value="australia">Australia</option>
+                  <option value="canada">Canada</option>
+                  <option value="usa">USA</option>
+                </select>
+              <input type="submit" value="Login">
+              </div>
+            </form>
+          </div>
+    </body>
+</html>
