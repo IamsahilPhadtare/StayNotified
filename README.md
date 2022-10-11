@@ -34,7 +34,7 @@
 
  <h2 align="center"> A web based Notification website.</h2>
 
-     <br>  
+     
 
  </br> 
 
