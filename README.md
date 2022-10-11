@@ -18,9 +18,9 @@
 
    [![Status](https://img.shields.io/badge/status-active-success.svg)]()  
 
-   [![GitHub Issues](https://img.shields.io/github/issues/fadkeabhi/CLIPBOARD.svg)](https://github.com/IamsahilPhadtare/GetNotified/issues) 
+   [![GitHub Issues](https://img.shields.io/github/issues/IamsahilPhadtare/GetNotified.svg)](https://github.com/IamsahilPhadtare/GetNotified/issues) 
 
-   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/fadkeabhi/CLIPBOARD.svg)](https://github.com/iamsahilphadtare/GetNotified/pulls) 
+   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/IamsahilPhadtare/GetNotified.svg)](https://github.com/iamsahilphadtare/GetNotified/pulls) 
 
   
 
@@ -70,16 +70,6 @@
 
   
 
- ## ⚙️Installation <a name = "installation"></a> 
-
- 1. Clone this repository (e.g. `git clone https://github.com/fadkeabhi/CLIPBOARD`) 
-
- 2. Copy config.sample.php to config.php (`cp config.sample.php config.php`) 
-
- 3. Set up your own database credentials in config.php 
-
- 4. Import `clips.sql` into the database (e.g. `mysql -uroot clipboard < clips.sql`) 
-
   
 
  ## ⛏️ Built Using <a name = "built_using"></a> 
@@ -98,13 +88,11 @@
 
  ## ToDo<a name ="todo"></a>  
 
- - [x] improve style 
+ - [ ] improve style 
 
- - [x] add limit changer 
+ - [ ] user login system with private messages
 
- - [ ] user login system with private clips 
-
- - [x] add theme switcher 
+ - [ ] add theme switcher 
 
  - [ ] add more themes 
 
