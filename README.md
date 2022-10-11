@@ -2,7 +2,7 @@
 
    <a href="" rel="noopener"> 
 
-  <img width=200px height=200px src="images/cb.svg" alt="Project logo"></a> 
+  <img width=200px height=200px src="Resources/icon.jpg" alt="Project logo"></a> 
 
  </p> 
 
